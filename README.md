@@ -4,7 +4,7 @@ Kotlin console based application to manage Parking Lot without human interaction
 ### Installation
 1. Clone this repo to your local machine
 ```java
-git clone https://github.com/pallaw/Parking-Lot.git
+git clone https://github.com/amitesh18896/Parking-Lot.git
 ```
 2. Open the project in IntelliJ Idea
 
